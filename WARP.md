@@ -8,7 +8,7 @@ There are various common challenges with traditional terminals:
 2. **Limited Customization:** Developers with both coding and design skills definitely like to customize their terminals because they are well-versed in design and require design in everything. In Traditional terminals, customization is time-consuming because you need to change the configuration files, and it requires knowledge of how to change these files. Changing the prompt or switching themes can also be time-consuming with these terminals.
 3. **Command History Management**: Command history in traditional terminals is difficult to fetch. Developers often rely on Ctrl + R to search through past commands, but this method can be slow and inefficient. It is time consuming as well.
 4. **Performance issues**: As projects grow and the codebase becomes large, it gives you challenges like handling large amounts of volume to working with multiple terminal sessions, It gets stuck sometimes. Sometimes, developers experience lag and slowdowns in their tasks, which may disturb their workflow.
-5. **Security Concerns**: Traditional terminals often require manual SSH keys, environment variables, and other sensitive information management. This can create security risks if not managed properly. Moreover, there's no built-in support for securely sharing credentials or managing team access, which is very important when collaborating.
+5. **Security Concerns**: In Traditional terminals, you need to manage sensitive information  manually. This can create security risks if not managed properly. Moreover, there's no built-in support for securely sharing credentials or managing team access, which is very important when collaborating.
 
 ## About Warp
 
@@ -18,21 +18,17 @@ There are various common challenges with traditional terminals:
 
 1. **Enhanced Collaboration with Warp Drive:** Warp Terminal changed how developers can easily collaborate in the terminal itself with its **Warp Drive feature.** Warp Drive allows you to share real-time terminal sessions, commands, and workflows with your team. You can share your terminal sessions with a link that enables real-time collaboration and teamwork.
 2.  **Customization and Theming**
-Warp offers extensive customization options:
-   - **Themes and Colors**: Choose from a wide variety of pre-loaded themes like Solarized Dark and Gruvbox, or create your own. You can even convert iTerm2 themes to Warp format using tools like [warp-themes](https://terminal-themes.com/create-theme).
-   - **Prompt Customization**: Use popular tools like Oh My Zsh (omz), Starship, or Powerlevel10k (p10k) to personalize your prompt, which displays exactly what you need.
-
+Warp offers extensive customization options, you can choose from a wide variety of pre-loaded themes like Solarized Dark and Gruvbox, or create your own. You can even convert iTerm2 themes to Warp format using tools like [warp-themes](https://terminal-themes.com/create-theme).
 3. **Smart Command Management with Blocks**
  Warp's block-based output system organizes your command history into easily navigable sections. You can revisit the previous command instead of searching again and again.
-
 4. **Built-In Security Features**
-Security is a core focus of Warp Terminal. It includes features like SSH key management and secure storage of credentials, which are integrated into the terminal experience. This reduces the risk of exposing sensitive information and simplifies managing access, especially in team environments. Warp's approach to security ensures that your development environment is both powerful and safe.
+Warp also offers a layer of security as it obscures sensitive information such as API keys through secret redaction which ensures data confidentiality while working or sharing terminal content. The platform supports integration with corporate Single Sign-On (SSO) systems via SAML which, aligns seamlessly with organizational security protocols. Warp adopts a privacy-first approach by enforcing a strict 'no telemetry' policy, which means it does not collect any data entered into or output from the command line. 
 
 ## Terminal with Special Powers
 In this section I will cover some of the most used features provided by Warp that help me boost my day to day producitivity.
 
 ### Separate Section for Every Command Executed
-In warp you can perform different functions based on the command you have executed. Warp creates a [block](https://docs.warp.dev/features/blocks) for every command you run in an environment, providing features such as copying only the output of a executed command.
+In Warp you can perform different functions based on the command you have executed. Warp creates a [block](https://docs.warp.dev/features/blocks) for every command you run in an environment, providing features such as copying only the output of a executed command.
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/763dacbc-7c4b-410c-b9c7-9db1d43f9e58">
 
@@ -63,7 +59,7 @@ You can also ask Warp AI to perform different operations as shown in the below i
 
 ### Prompt Customisation
 
-With Warp you can also customize prompts such as setting git environment, contexts, and other details like date and time. You can also easily create customs prompts
+With Warp you can also customize prompts such as setting git environment, contexts, and other details like date and time. You can also easily create custom prompts
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/92f9c0ac-bbbc-4662-943d-97ee1591939f">
 
@@ -74,7 +70,7 @@ Warp includes several themes (out-of-box) and also supports setting custom theme
 
 ### Drive Feature
 
-Warp helps you also collaborate with your peers by giving an option to create a team and work on the same terminal at the same time.
+Warp helps you also collaborate with your peers by giving an option to create a team and work on the same terminal at the same time. You can access this feature by selecting [Warp Drive](https://docs.warp.dev/features/warp-drive) from the top left of the Warp terminal.
 
 <img width="1439" alt="image" src="https://github.com/user-attachments/assets/d2a550e2-2ce6-4277-8333-85a083a89741">
 
@@ -98,7 +94,6 @@ You can use this workflow created using either command palette or using command 
 
 <img width="1437" alt="image" src="https://github.com/user-attachments/assets/45883d21-da0c-42cb-a531-9ef285e2ec78">
 
-- **Contribute to the Project**: Visit the Warp [GitHub repository](https://github.com/warpdotdev/Warp) to contribute to its development.
 - Contribute to unique Themes: You can also contribute to [themes](https://github.com/warpdotdev/themes) as it is open source.
 - **Learn more**: Read the [documentation](https://coder.com/docs) in order to learn more.
 - **Install Warp**: Install the tool [here](https://docs.warp.dev/getting-started/getting-started-with-warp) and start collaborating with you team mates. It is only support for Mac and Linux. You can also join the waitlist for [windows](https://www.warp.dev/?gad_source=1&gclid=CjwKCAjwlbu2BhA3EiwA3yXyu1fwQM0PHHydjnpKcer2fuuw2LPO-Z_9m71ABJnIYMQzhRKuLGMRhhoCa74QAvD_BwE). 
