@@ -43,7 +43,7 @@ In order to secure access to our kubernetes applications we need to spin a clust
 
 
 
-**Step 2**: **Create NGNIX Deployment and Service**
+**Step 2**: **Create NGINX Deployment and Service**
 
 To run a private resource in our newly created kubernetes cluster on civo we would need a deployment and service configuration files.
 
@@ -146,7 +146,9 @@ Once the token are generated copy the helm commands and paste in your kubernetes
 ![image](https://hackmd.io/_uploads/SJhzSYdiA.png)
 
 
-The above step will add a Twingate helm chart and will create a helm repo in your kubernetes cluster. Once the repo is create go ahead and run the second command to deploy the Twingate connector.
+The above step will add a Twingate helm chart and will create a helm repo in your kubernetes cluster. Once the repo is create go ahead and run the second command to deploy the Twingate connector * 
+
+* Don't directly copy commands from the blog; they may not align with the dashboard.
 
 Commands
 ```
@@ -245,7 +247,7 @@ In this scenario we will try to access the above created **nginx-service**. Make
 
 **Step 2**: **Setting up a Service Account**
 
-To access the secure resource using GitHub Actions you need to create a service account on Twingate and add the resource in the created service account.
+Learn more about Twingate service accounts [here](https://www.twingate.com/docs/service-accounts-guide). To access the secure resource using GitHub Actions you need to create a service account on Twingate and add the resource in the created service account.
 
 Head back to twingate and under **Team** section you will see the **Services** option. Go ahead and create a service account.
 ![image](https://hackmd.io/_uploads/H1ixOYujA.png)
@@ -397,7 +399,7 @@ Twingate offers several use cases but here are three different use cases for Twi
 
 
 
-## Difference between Twingate and VPN
+## Difference between Twingate and most traditional VPNs
 1. **Direct Peer-to-Peer (P2P) Connections:** P2P direct connections offer the fastest performance and most reliability than any other Traditional VPN
 
 2. **Private Proxy Architecture:** Unlike Traditional VPNs, which require time and cost to set up, Twingate's private proxy architecture acts as a bridge between clients and network resources, simplifying deployment. Private proxy architecture makes deployment fast, easy, and flexible.
