@@ -71,7 +71,7 @@ Wait for few minutes for the database service to start, once the database server
 
 After creating the database server, head over to organization and click on **Create Project** option.
 
-![image](https://hackmd.io/_uploads/ByCTnyBoC.png)
+![image](https://github.com/user-attachments/assets/140c8673-cd9d-4f6c-989c-3fec8db9b80c)
 
 After creating the project you will land on **Component** page, go ahead and create a new **Service** component.
 
@@ -200,11 +200,11 @@ Choreo stands out for various reason in cloud deployment space:
 
 ## Case Studies
 
-1. **IIIT Hyderabad** used Choreo to build a centralized platform that allowed nonprofit organizations to quickly access services and APIs without having to identify the source organizations. Additionally, Choreo manages infrastructure, enables single sign-on, and generates API documentation, freeing up team members to concentrate on developing new solutions more quickly.
+1. **IIIT Hyderabad** used Choreo to build a centralized platform that allowed nonprofit organizations to quickly access services and APIs without having to identify the source organizations. Additionally, Choreo manages infrastructure and enables single sign-on, freeing up team members to concentrate on developing new solutions more quickly.
 
 2. Choreo also provided **cost optimization** for **startups** by providing an effective platform for application deployment.
 
-3. The teams at **Nagarro** were able to design, launch, and monitor APIs . The next-generation iPaaS platform from Choreo helps businesses accomplish digital transformations more quickly.
+3. *Cut+Dry* leveraged Choreo to seamlessly integrate with ERPs, overcoming startup challenges with speed, support, and scalability, while balancing open-source flexibility and SaaS efficiency.
 
 ## Getting Involved
 
