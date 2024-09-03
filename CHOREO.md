@@ -1,4 +1,4 @@
-Developers face many problems in integrating all the tools in a single place, as it is time-consuming and slows down the process of delivering the software from code to production.Like many tools exist in the market to solve the problem of cloud deployment. There are different tools for containerization, others for deployment and more for monitoring, security, scaling and testing. But what if there is a platform which helps developers to integrate and use all the tools in a single place. In this blog, I have covered developers common challenges and how one such tool [Choreo](https://choreo.dev/) addresses these issues, and walk through an end-to-end demo showcasing the platform’s capabilities.
+Developers face many problems in integrating all the tools in a single place, as it is time-consuming and slows down the process of delivering the software from code to production.Like many tools exist in the market to solve the problem of cloud deployment. There are different tools for containerization, others for deployment and more for monitoring, security, scaling and testing. But what if there is a platform which helps developers to integrate and use all the tools in a single place. In this blog, I have covered developers common challenges and how one such tool [Choreo](https://choreo.dev/?utm_source=Blog&utm_medium=link&utm_campaign=Blog_link_kunals_blog_240902) addresses these issues, and walk through an end-to-end demo showcasing the platform’s capabilities.
 
 ## Common Challenges in Cloud Native Deployment
 
@@ -75,7 +75,7 @@ After creating the database server, head over to organization and click on **Cre
 
 After creating the project you will land on **Component** page, go ahead and create a new **Service** component.
 
-![image](https://hackmd.io/_uploads/B10UT1ri0.png)
+<img width="1439" alt="68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4231305554317269302e706e67" src="https://github.com/user-attachments/assets/efe83539-2877-46fb-b299-9a435001fbe0">
 
 Sync your GitHub repository contaning the backend code within this component and click on **Create** button at the bottom.
 
@@ -209,9 +209,11 @@ Choreo stands out for various reason in cloud deployment space:
 ## Getting Involved
 
 - Read the [documentation](https://wso2.com/choreo/docs/) in order to learn more.
-- **Try Choreo**: Try out the tool from their [official website](https://choreo.dev/) and start building  your application with ease.
+- **Try Choreo**: Try out the tool from their [official website](https://choreo.dev/?utm_source=Blog&utm_medium=link&utm_campaign=Blog_link_kunals_blog_240902) and start building  your application with ease.
 - **Join the Community**: Got questions or feedback? Join the Choreo [Discord ](https://discord.com/invite/wso2)community to connect with fellow developers, share insights, and access various to enhance your cloud journey with Choreo. 
 
 ## Conclusion
 
 Choreo is a powerful platform that addresses the complexities of cloud-native deployment by providing a comprehensive set of tools for integration, deployment, security, scalability, and observability. By simplifying these processes, Choreo allows developers to focus on what matters most which is building applications rather than manually integration  all the tools and services.
+
+_Shoutout to [WSO2](https://wso2.com) for collaborating with me on this blog._
