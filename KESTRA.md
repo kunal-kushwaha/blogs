@@ -1,6 +1,6 @@
 # Comparing Infrastructure Orchestration Tools: Kestra vs Airflow, Dagster and Prefect
 
-Application deployment and management become increasingly complex as we transition into the cloud-native domain. Developers face numerous challenges, such as infrastructure maintenance and monitoring. In this blog post, I will discuss these challenges in detail and compare tools, including [Kestra](https://kestra.io/), which offer solutions to many of these challenges, with other tools available on the market. The comparison will be based on factors such as architecture, scalability, integrations, and robustness.
+I recently wrote a blog on [Kestra](https://www.techwithkunal.com/blog/streamlining-cloud-native-development-kestra), where I explored how it simplifies cloud-native development by streamlining workflow orchestration. After that post, many readers asked me to compare Kestra with other popular orchestration tools, such as Airflow, Dagster, and Prefect. As application deployment and management become more complex in the cloud-native space, developers face various challenges, including infrastructure maintenance and monitoring. In this blog, I will dive into these challenges and offer a detailed comparison of Kestra and other tools, focusing on factors like architecture, scalability, integrations, and robustness.
 
 ## Challenges in Infrastructure Orchestration
 
