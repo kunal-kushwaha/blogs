@@ -1,3 +1,5 @@
+# Comparing Infrastructure Orchestration Tools: Kestra vs Airflow, Dagster and Prefect
+
 Application deployment and management become increasingly complex as we transition into the cloud-native domain. Developers face numerous challenges, such as infrastructure maintenance and monitoring. In this blog post, I will discuss these challenges in detail and compare tools, including [Kestra](https://kestra.io/), which offer solutions to many of these challenges, with other tools available on the market. The comparison will be based on factors such as architecture, scalability, integrations, and robustness.
 
 ## Challenges in Infrastructure Orchestration
@@ -19,6 +21,8 @@ Infrastructure orchestration plays a critical role in DevOps, contributing to:
 4. **Error Reduction**: Automation reduces the risk of human error, enhancing system stability and reliability.
 
 ## Kestra: A Comprehensive Solution for Workflow Orchestration
+
+![image](https://github.com/user-attachments/assets/90c99c6c-6f6b-40f7-af49-39004924f3ec)
 
 Kestra is a **Unified Orchestration Platform** designed for scheduling and orchestrating complex data pipelines and workflows. It provides developers with the flexibility to focus on creativity and execution rather than infrastructure management. Its user-friendly visual interface allows both technical and non-technical users to efficiently design and manage processes.
 
@@ -83,6 +87,8 @@ Kestra addresses common infrastructure orchestration challenges through several 
 | User Interface      | Modern UI with features like autocompletion      | Clean and functional user interface             |
 
 ## Conclusion
+
+![image](https://github.com/user-attachments/assets/586eed71-97b7-4f14-9328-8e5882ce3032)
 
 Kestra stands out as a reliable orchestration platform for modern, complex deployments, simplifying infrastructure management. However, the choice of orchestration tool depends on the specific needs of the project, team expertise, and the level of integration and scalability required.
 
