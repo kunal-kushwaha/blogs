@@ -1,4 +1,4 @@
-# Comparing Infrastructure Orchestration Tools: Kestra vs Airflow, Dagster and Prefect
+# Comparing Orchestration Tools: Kestra vs Airflow, Dagster and Prefect
 
 I recently wrote a blog on [Kestra](https://www.techwithkunal.com/blog/streamlining-cloud-native-development-kestra), where I explored how it simplifies cloud-native development by streamlining workflow orchestration. After that post, many readers asked me to compare Kestra with other popular orchestration tools, such as Airflow, Dagster, and Prefect. As application deployment and management become more complex in the cloud-native space, developers face various challenges, including infrastructure maintenance and monitoring. In this blog, I will dive into these challenges and offer a detailed comparison of Kestra and other tools, focusing on factors like architecture, scalability, integrations, and robustness.
 
@@ -22,8 +22,6 @@ Infrastructure orchestration plays a critical role in DevOps, contributing to:
 
 ## Kestra: A Comprehensive Solution for Workflow Orchestration
 
-![image](https://github.com/user-attachments/assets/90c99c6c-6f6b-40f7-af49-39004924f3ec)
-
 Kestra is a **Unified Orchestration Platform** designed for scheduling and orchestrating complex data pipelines and workflows. It provides developers with the flexibility to focus on creativity and execution rather than infrastructure management. Its user-friendly visual interface allows both technical and non-technical users to efficiently design and manage processes.
 
 Kestra addresses common infrastructure orchestration challenges through several key features:
@@ -38,8 +36,9 @@ Kestra addresses common infrastructure orchestration challenges through several 
 
 - **Automation Platform**: Kestra streamlines scheduling and automation tasks through declarative language, simplifying workflow management.
 - **API-First Approach**: Kestra’s API-first design allows for programmatic access to all actions, from managing workflows to user administration.
-- **Language Agnostic**: Kestra supports workflows in multiple languages, enabling users to work with the languages that best suit their organization.
+- **Language Agnostic**: Kestra supports workflows in multiple languages, enabling users to work with the languages that best suit their organization. You can use any language for your scripting tasks and manage everything either as code or directly from the UI.
 - **Terraform Provider**: The integration with Terraform allows users to manage and deploy workflows within their existing infrastructure environment.
+- **Task Runners**: Task runners allow you to run your code on any instance, making it ideal for heavy-duty tasks that need to run on large instances.
 - **Configuration without Extensive Code**: Kestra reduces the need for complex configuration files, improving developer productivity.
 - **Quick Deployment**: Kestra enables quick deployment of complex workflows and modifications with minimal effort.
 - **Detailed Insights and Dashboards**: Kestra provides comprehensive visibility and logging of workflow execution, aiding in observability and troubleshooting.
@@ -88,11 +87,9 @@ Kestra addresses common infrastructure orchestration challenges through several 
 
 ## Conclusion
 
-![image](https://github.com/user-attachments/assets/586eed71-97b7-4f14-9328-8e5882ce3032)
+Among all the orchestration tools discussed, Kestra stands out as the simplest and most user-friendly solution. With Kestra, you can easily start by running it in a container, launching the UI, and automating workflows with minimal setup. Whether for simple use cases with built-in plugins and autocompletion or complex tasks requiring custom scripts (such as shell, JavaScript, or Python), Kestra provides a versatile platform.
 
-Kestra stands out as a reliable orchestration platform for modern, complex deployments, simplifying infrastructure management. However, the choice of orchestration tool depends on the specific needs of the project, team expertise, and the level of integration and scalability required.
-
-Each platform has its strengths: Kestra offers broad language support and scalability, Airflow excels in robust scheduling, Dagster focuses on data asset management, and Prefect brings a modern approach to workflow automation. Selecting the right tool will ultimately depend on your project’s specific requirements.
+Each platform has its strengths: Kestra offers broad language support and scalability, Airflow excels in robust scheduling, Dagster focuses on data asset management, and Prefect brings a modern approach to workflow automation. However, for those seeking a streamlined, easy-to-use tool that supports both simple and complex tasks, Kestra offers a unique advantage.
 
 ## Resources
 
