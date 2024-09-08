@@ -35,7 +35,7 @@ Coder offers different features:
 - **Various integrations support:** Coder also supports a wide array of Integrated Development Environments (IDEs), from web-based setups like code-server and Jupyter to JetBrains Gateway and VS Code Remote. This flexibility ensures that developers can access their workspaces from any device. Developers not only have the flexibility to use their laptops, but it also supports lightweight notebooks and iPads. It also includes integration with Google Cloud VMs, Amazon EC2 VMs, Raspberry Pi, and Kubernetes. 
 
 
-## Coder
+## Run Ollama in Kubernetes Cluster using Coder
 
 **Step 1**: **Create a Kubernetes Cluster on Civo**
 In order to secure access to our kubernetes applications we need to spin a cluster in which our applications will run. Follow the [Civo Documentation](https://www.civo.com/docs/kubernetes/create-a-cluster) for creating a kubernetes cluster.
@@ -117,10 +117,12 @@ coder:
     - name: CODER_ACCESS_URL
       value: "<External-IP-of-coder-service>"
 
-  #tls:
-  #  secretNames:
-  #    - my-tls-secret-name
+  tls:
+    secretNames:
+      - civo-ingress-tls
 ``` 
+
+Make sure to configure TLS in civo cluster using this [guide](https://www.civo.com/learn/kubernetes-https-ingress-controller-with-your-own-tls-certificate).
 
 **Step 4**: **Create Sample Deployment and Workflows**
 
@@ -140,9 +142,9 @@ Fill in the CPU and Memory requirements and click on create workspace button
 
 Once the workflow is created using the template you can choose between the different modes to perform different operations in the workspace created
 
-![c2](https://github.com/user-attachments/assets/3ae3ae8a-eca0-4e00-b591-21e127a46957)
+![image](https://github.com/user-attachments/assets/4199f11d-37c5-4bdd-bfe8-1fb47bb3982f)
 
-This is how your terraform configuration should look like in the template created
+This is how your terraform configuration should look like in the template created.
 
 ```terraform {
   required_providers {
@@ -471,10 +473,21 @@ resource "kubernetes_deployment" "main" {
   }
 }
 ```
+**Step - 5**: **Run llama3 in Coder Terminal**
 
+You can click on the terminal created by coder to access a coder environment. Verify and start Ollama services inside your Kubernetes cluster using coder.
+
+Run the below command to run llama3 model
+
+```
+ollama run llama3
+```
+
+Output
+
+![image](https://github.com/user-attachments/assets/ec096c99-7cf5-4c90-89e8-312b17ecc4b8)
 
 ## Key Components of Coder
-
 
 Coder provides a flexible and scalable solution for setting up remote development environments. It helps developers by simplifying the setup, management, and security of these environments.
 
