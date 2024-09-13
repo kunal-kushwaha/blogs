@@ -33,7 +33,6 @@ Coder offers different features:
 - **Enhanced Security:** Coder separates development environments from desktops and provides a more secure development process.
 - **Various integrations support:** Coder also supports a wide array of Integrated Development Environments (IDEs), from web-based setups like code-server and Jupyter to JetBrains Gateway and VS Code Remote. This flexibility ensures that developers can access their workspaces from any device. Developers not only have the flexibility to use their laptops, but it also supports lightweight notebooks and iPads. It also includes integration with Google Cloud VMs, Amazon EC2 VMs, Raspberry Pi, and Kubernetes. 
 
-
 ## Run Ollama in Kubernetes Cluster using Coder
 
 **Step 1**: **Create a Kubernetes Cluster on Civo**
@@ -142,6 +141,14 @@ Fill in the CPU and Memory requirements and click on create workspace button
 Once the workflow is created using the template you can choose between the different modes to perform different operations in the workspace created
 
 ![image](https://github.com/user-attachments/assets/4199f11d-37c5-4bdd-bfe8-1fb47bb3982f)
+
+You can also choose to setup this workspace in either your preffered IDE or start a code-server. You can setup this workspace on VS Code by clicking on the VS Code Desktop button.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b66ec201-87c5-419b-9a83-c09511500d4a">
+
+You can also open any file or directory created in this workspace and can even access the terminal to perform certain operations in the workspace.
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/7ab5cd6b-8b73-4b8a-8e6f-4fd786e2a3bf">
+
 
 This is how your terraform configuration should look like in the template created.
 
