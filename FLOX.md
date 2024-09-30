@@ -233,8 +233,6 @@ The ideal market for Flox includes software developers, DevOps engineers, and te
 
 ## Getting Started
 
-![image](https://github.com/user-attachments/assets/663a3f00-6572-48c9-b280-f3b8081efc2c)
-
 - **Contribute to the Project**: You can also contribute to the Flox. This is Flox [GitHub repository](https://github.com/flox/flox); star the Project if you like it.
 - Read the [documentation](https://flox.dev/docs/) in order to learn more.
 - **Install**: You can install the tool from [here](https://flox.dev/docs/install-flox/) and easily build managing package manager in your application.
