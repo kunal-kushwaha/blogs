@@ -37,16 +37,12 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 ### Things to Do in Delhi
 
 1. **India Gate**: A monumental structure and a tribute to Indian soldiers. The surrounding lawns are ideal for evening strolls.
-
 2. **Lotus Temple**: Known for its stunning flower-like shape, this temple is a peaceful place for meditation.
-
 3. **Akshardham Temple**: A stunning modern temple complex showcasing India's rich cultural heritage through intricate architecture, gardens, and a beautiful water show. It's a must-visit for its grandeur and serenity.
-
 4. **Red Fort**: A grand fortress from the Mughal era, offering a peek into Delhi’s historical significance.
-
 5. **National Museum**: A treasure trove of India's art, history, and culture spanning millennia.
-
 6. **Dilli Haat**: A market with traditional handicrafts and foods from various Indian states. A must-visit for authentic Indian souvenirs.
+7. **India Gate**: A monumental war memorial built in honor of Indian soldiers, surrounded by beautiful lawns, making it a great spot for a peaceful evening stroll.
 
 ---
 
