@@ -51,7 +51,8 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 1. **India Gate**: A monumental war memorial built in honor of Indian soldiers, surrounded by beautiful lawns, making it a great spot for a peaceful evening stroll.
 2. **Lotus Temple**: Known for its stunning flower-like shape, this temple is a peaceful place for meditation.
 3. **Akshardham Temple**: A stunning modern temple complex showcasing India's rich cultural heritage through intricate architecture, gardens, and a beautiful water show. It's a must-visit for its grandeur and serenity.
-4. **Red Fort**: A grand fortress from the Mughal era, offering a peek into Delhi’s historical significance.
+4. **Red Fort**: A grand fortress from the Mughal era, offering a peek into Delhi’s historical significance. Though historically significant, Chandni Chowk can be very crowded, with a high risk of pickpocketing. The area is often dirty, and there's not much to do beyond the local market. I recommend skipping it unless you have a specific reason to visit.
+
 5. **National Museum**: A treasure trove of India's art, history, and culture spanning millennia.
 6. **Dilli Haat**: A market with traditional handicrafts and foods from various Indian states. A must-visit for authentic Indian souvenirs.
 
@@ -76,9 +77,7 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 - **Pollution**: December is known for Delhi’s pollution, so it’s advisable to bring face masks for protection. 
   
 - **Safety**: Delhi is generally a safe city, especially if you're with others. Personally, I feel safer in Delhi than some other cities. Stick to the places I’ve recommended or ask trusted locals for advice. Avoid poorly lit alleys, particularly at night, and it’s always best to travel with someone.
-
-- **Chandni Chowk**: Though historically significant, Chandni Chowk can be very crowded, with a high risk of pickpocketing. The area is often dirty, and there's not much to do beyond the local market. I recommend skipping it unless you have a specific reason to visit.
-
+  
 ---
 
 Delhi offers a diverse range of experiences, from some of the best food in the world to a rich cultural and historical landscape. Enjoy your visit to the city and make the most out of KubeCon India 2024! If you have any questions, feel free to message me on the CNCF Slack.
