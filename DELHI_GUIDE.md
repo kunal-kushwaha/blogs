@@ -15,7 +15,7 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 
 ### Transportation
 
-![image](https://github.com/user-attachments/assets/4ebbf997-d5e7-4523-b44c-1da19c337b44)
+![image](https://github.com/user-attachments/assets/3e5b0d06-2ea8-44a4-91e4-9a33eaa79823)
 
 - **Uber**: Uber is affordable, and you can pay by card. However, some drivers may ask you to cancel rides and pay them in cash. Avoid this by insisting on paying through the app to prevent being overcharged or scammed.
   
@@ -69,11 +69,11 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 
 ### Important Tips
 
-![image](https://github.com/user-attachments/assets/f4f3424a-cc4e-4990-b947-6aa9198b060f)
+![image](https://github.com/user-attachments/assets/9b77b794-17a4-4edf-84d9-56f7f3a4763d)
 
 - **Pollution**: December is known for Delhi’s pollution, so it’s advisable to bring face masks for protection. 
   
-- **Safety**: Avoid poorly lit alleys, especially at night. It's best to travel with someone.
+- **Safety**: Delhi is generally a safe city, especially if you're with others. Personally, I feel safer in Delhi than some other cities. Stick to the places I’ve recommended or ask trusted locals for advice. Avoid poorly lit alleys, particularly at night, and it’s always best to travel with someone.
 
 - **Chandni Chowk**: Though historically significant, Chandni Chowk can be very crowded, with a high risk of pickpocketing. The area is often dirty, and there's not much to do beyond the local market. I recommend skipping it unless you have a specific reason to visit.
 
