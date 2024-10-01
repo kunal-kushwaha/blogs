@@ -200,6 +200,6 @@ Fileforge is designed for developers who need scalable, secure, and flexible PDF
 
 ## Conclusion
 
-Fileforge offers a modern, flexible, and developer-friendly approach to creating PDFs, making it a strong alternative to older tools like iText and PDFBox. It simplifies the PDF creation process while offering
+Fileforge offers a modern, flexible, and developer-friendly approach to creating PDFs, making it a strong alternative to older tools like iText and PDFBox. It simplifies the PDF creation process while offering scalability, customization, and compliance with industry standards. Your choice between tools will depend on your project's needs, but for many, Fileforge provides an efficient solution for modern document management.
 
- scalability, customization, and compliance with industry standards. Your choice between tools will depend on your project's needs, but for many, Fileforge provides an efficient solution for modern document management.
+Shoutout to Fileforge for collaborating with me on this blog.
