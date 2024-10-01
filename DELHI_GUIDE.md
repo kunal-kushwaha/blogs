@@ -77,6 +77,8 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 - **Pollution**: December is known for Delhi’s pollution, so it’s advisable to bring face masks for protection. 
   
 - **Safety**: Delhi is generally a safe city, especially if you're with others. Personally, I feel safer in Delhi than some other cities. Stick to the places I’ve recommended or ask trusted locals for advice. Avoid poorly lit alleys, particularly at night, and it’s always best to travel with someone.
+
+- **Language**: Hindi is the most widely spoken language in Delhi, though most people also speak English. However, local vendors and Uber drivers may not be as fluent, so it’s helpful to use Google Translate or have someone with you who knows the language.
   
 ---
 
