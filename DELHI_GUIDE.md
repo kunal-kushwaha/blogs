@@ -9,8 +9,6 @@ The capital city of India, Delhi, has roots that trace back thousands of years. 
 
 ### Weather
 
-![image](https://github.com/user-attachments/assets/013de810-8d1e-44bd-ac0e-20e8f64d4111)
-
 In December, Delhi will be chilly with temperatures ranging from 22°C during the day to as low as 5°C at night. Pack a jacket and warm clothes. Rain is unlikely during this time, but it’s best to check the weather forecast closer to your travel date.
 
 ---
