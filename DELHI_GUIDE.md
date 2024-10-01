@@ -1,6 +1,8 @@
 ### Dilli Hai Dilwalon Ki  
 (Translation: "Delhi is for the warm-hearted")
 
+_A Delhi guide by [Kunal Kushwaha](https://x.com/kunalstwt) from [Civo](https://www.civo.com)._
+
 The capital city of India, Delhi, has roots that trace back thousands of years. Known as Indraprastha in ancient texts dating as far back as 400 BCE, it has been the center of various cultures and empires. There's always something happening in Delhi, with a wide array of activities to experience. In this guide, I'll share how you can make the most of your time when you visit during KubeCon India in December.
 
 ![image](https://github.com/user-attachments/assets/2e8e3f21-c601-4db3-bc64-f16fe58610cd)
@@ -79,6 +81,6 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 
 ---
 
-Delhi offers a diverse range of experiences, from some of the best food in the world to a rich cultural and historical landscape. Enjoy your visit to the city and make the most out of KubeCon India 2024!
+Delhi offers a diverse range of experiences, from some of the best food in the world to a rich cultural and historical landscape. Enjoy your visit to the city and make the most out of KubeCon India 2024! If you have any questions, feel free to message me on the CNCF Slack.
 
 See you there!
