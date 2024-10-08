@@ -74,7 +74,7 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
 
 ![image](https://github.com/user-attachments/assets/9b77b794-17a4-4edf-84d9-56f7f3a4763d)
 
-- **Pollution**: December is known for Delhi’s pollution, so it’s advisable to bring face masks for protection. 
+- **Pollution**: Although it's looking good right now, December is known for Delhi’s pollution after Diwali, so it’s advisable to bring face masks for protection. You will know for sure the air quality you can expect in Decemberber after Diwali, i.e. after 1st November, 2024.
   
 - **Safety**: Delhi is generally a safe city, especially if you're with others. Personally, I feel safer in Delhi than some other cities. Stick to the places I’ve recommended or ask trusted locals for advice. Avoid poorly lit alleys, particularly at night, and it’s always best to travel with someone.
 
