@@ -1,7 +1,7 @@
 ### Dilli Hai Dilwalon Ki  
 (Translation: "Delhi is for the warm-hearted")
 
-_A Delhi guide by [Kunal Kushwaha](https://x.com/kunalstwt) from [Civo](https://www.civo.com)._
+_A Delhi guide by [Kunal Kushwaha](https://x.com/kunalstwt), Field CTO at [Civo](https://www.civo.com)._
 
 The capital city of India, Delhi, has roots that trace back thousands of years. Known as Indraprastha in ancient texts dating as far back as 400 BCE, it has been the center of various cultures and empires. There's always something happening in Delhi, with a wide array of activities to experience. In this guide, I'll share how you can make the most of your time when you visit during KubeCon India in December.
 
