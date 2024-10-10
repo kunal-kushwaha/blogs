@@ -38,7 +38,7 @@ In December, Delhi will be chilly with temperatures ranging from 22°C during th
    - DLF Mall of India, Noida: India’s largest mall and my personal favorite for food and shopping.
    - Select Citywalk, Saket: Popular for nightlife and shopping. The DLF mall next door is excellent for restaurants.
 
-3. **Street Food**: While Delhi is famous for street food, it can be a hit or miss in terms of hygiene. I recommend sticking to trusted chains like Haldiram’s or Bikanervala for safe, authentic street food and sweets. Lajpat Nagar, Nehru Place, and Connaught Place also have good street food options if you're feeling adventurous.
+3. **Street Food**: While Delhi is famous for street food, it can be a hit or miss in terms of hygiene. I recommend sticking to trusted chains like Haldiram’s or Bikanervala for safe, authentic street food and sweets. Lajpat Nagar, Amar Colony, and Connaught Place also have good street food options if you're feeling adventurous.
 
 4. **32nd Milestone, Gurgaon**: A lively area with a variety of restaurants and bars, offering a great mix of cuisines and a vibrant atmosphere. It's close to the conference venue and perfect for an evening out.
 
