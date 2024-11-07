@@ -187,9 +187,7 @@ You can create teams, add users, and assign roles to provide access to resources
 
 ![image](https://hackmd.io/_uploads/BJ03IFuoR.png)
 
-**Step 
-
-5**: **Accessing the Resource**
+**Step 5**: **Accessing the Resource**
 
 After completing the above steps, download and install the Twingate app on the device you want to use to access the running resource. Authenticate the app with your account, and you will be able to see the resource running through the app.
 
