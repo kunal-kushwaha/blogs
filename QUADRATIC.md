@@ -1,3 +1,5 @@
+![420601207-da0c59ea-9745-4481-a713-0e910258a448](https://github.com/user-attachments/assets/2b00693c-02c2-4bc6-a191-cb5666ff0779)
+
 I've always relied heavily on spreadsheets like Google Sheets for organizing data, analyzing results, and keeping projects on track. But over time, as the data grew larger and my projects became more complex, I started to notice limitations. Performance issues, lack of easy coding integrations, and problems collaborating with my team made me search for a better alternative.
 
 ## Why Traditional Spreadsheets Fell Short
