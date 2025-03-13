@@ -1,4 +1,4 @@
-![420601207-da0c59ea-9745-4481-a713-0e910258a448](https://github.com/user-attachments/assets/2b00693c-02c2-4bc6-a191-cb5666ff0779)
+![image](https://github.com/user-attachments/assets/ae5eb323-df13-4808-bc8a-222b325c3579)
 
 Data is the new fuel of the tech industry, and effectively storing, analyzing, and leveraging it is more important than ever. Managing large datasets, integrating code, and collaborating in real time often require complex setups with external tools. While AI and automation have transformed other areas of technology, spreadsheets have remained mostly untouched, lacking native support for programming languages, real-time collaboration, and seamless integrations.
 
