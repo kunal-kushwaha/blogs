@@ -1,3 +1,6 @@
+# The best alternative to Google Sheets
+## Bringing Python & JavaScript to spreadsheets
+
 ![image](https://github.com/user-attachments/assets/ae5eb323-df13-4808-bc8a-222b325c3579)
 
 Data is the new fuel of the tech industry, and effectively storing, analyzing, and leveraging it is more important than ever. Managing large datasets, integrating code, and collaborating in real time often require complex setups with external tools. While AI and automation have transformed other areas of technology, spreadsheets have remained mostly untouched, lacking native support for programming languages, real-time collaboration, and seamless integrations.
